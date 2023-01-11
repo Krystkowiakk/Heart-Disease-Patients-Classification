@@ -3,6 +3,7 @@
 ###### project/month(4/7) focus: CLASSIFICATION
 #### Code [GitHub](https://public.tableau.com/views/Metis-Project-3-Business-on-BGG/Dashboard4_1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 #### Presentation [GitHub](https://github.com/Krystkowiakk/Board-Games-Design-Accelerator/blob/f732eab3f9e0b51cd780f49bed0d67d01a78e181/Project%20Presentation/Krystkowiak_Krystian_Project_3_Business_on_BGG.pdf)
+#### Web App [streamlit](https://krystkowiakk-metis-project-7--streamlit-appstreamlit-app-xuz5iy.streamlit.app)
 
 ABSTRACT
 
@@ -43,6 +44,7 @@ COMMUNICATION
 
 A 5-minute video presentation that provides an overview of the project, including key findings and visualizations.
 A streamlit web app built in the next project to further communicate the results and allow user-interaction.
+#### Heart Disease Patients Classication a Web App [GitHub](https://github.com/Krystkowiakk/Metis-Project-7-Engineering_on-Heart_Disease_Indicators)
 
 ![Heart Disease Patients Classification](files/cover.jpg)
 
