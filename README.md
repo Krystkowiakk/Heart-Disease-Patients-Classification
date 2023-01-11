@@ -45,6 +45,7 @@ COMMUNICATION
 A 5-minute video presentation that provides an overview of the project, including key findings and visualizations.
 A streamlit web app built in the next project to further communicate the results and allow user-interaction.
 #### Heart Disease Patients Classication a Web App [GitHub](https://github.com/Krystkowiakk/Metis-Project-7-Engineering_on-Heart_Disease_Indicators)
+###### project/month(4/7) focus: DATA ENGINEERING
 
 ![Heart Disease Patients Classification](files/cover.jpg)
 
