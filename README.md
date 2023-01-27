@@ -3,7 +3,7 @@
 ###### project/month(4/7) focus: CLASSIFICATION
 #### Code [GitHub](https://github.com/Krystkowiakk/Heart-Disease-Patients-Classification/blob/main/Krystkowiak_Krystian_Project_4_Classification_on-Heart_Disease_Indicators.ipynb)
 #### Presentation [GitHub](https://github.com/Krystkowiakk/Heart-Disease-Patients-Classification/blob/main/Project%20Presentation/Krystkowiak_Krystian_Project_4_Classification_on-Heart_Disease_Indicators.pdf)
-#### Web App [streamlit](https://krystkowiakk-metis-project-7--streamlit-appstreamlit-app-xuz5iy.streamlit.app)
+#### Web App [streamlit](https://krystkowiakk-heart-disease-pa-streamlit-appstreamlit-app-cjy0xv.streamlit.app)
 
 ABSTRACT
 
@@ -45,7 +45,7 @@ COMMUNICATION
 A 5-minute video presentation that provides an overview of the project, including key findings and visualizations.
 A streamlit web app built in the next project to further communicate the results and allow user-interaction.
 
-#### Heart Disease Patients Classication a Web App [GitHub](https://github.com/Krystkowiakk/Metis-Project-7-Engineering_on-Heart_Disease_Indicators)
+#### Heart Disease Patients Classication a Web App [GitHub](https://github.com/Krystkowiakk/Heart-Disease-Patients-Classification-with-a-Web-App)
 
 ![Heart Disease Patients Classification](files/cover.jpg)
 
